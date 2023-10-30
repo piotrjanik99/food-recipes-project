@@ -21,10 +21,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.piotrjanik99.foodrecipesproject"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6a7c420e-1ab2-4ab8-a059-b289b1a5b97e"
+      }
+    },
+    "scheme": "food-recipes-project"
   }
 }
